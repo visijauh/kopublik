@@ -11,7 +11,7 @@ Kopublik berbasis di Yogyakarta dan bekerja untuk melayani kebutuhan pengguna ja
 ## Lingkup layanan Kopublik 
 
 * Pengelolaan informasi berbasis teks
-..* penulisan
+  * penulisan
 ..* penyuntingan
 ..* penyelarasan bahasa
 ..* penerjemahan (Inggris – Indonesia & Indonesia – Inggris)
