@@ -1,8 +1,6 @@
 # KOPUBLIK
 
-Logo:
 ![alt text](https://github.com/visijauh/kopublik/blob/master/Logo_kopublik_github.jpg)
-
 
 Kopublik adalah perkumpulan yang fokus pada pengelolaan informasi baik dalam bentuk teks, visual, maupun audio visual sebagai bagian penting dari strategi komunikasi publik.
 
