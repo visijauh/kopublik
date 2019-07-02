@@ -12,29 +12,29 @@ Kopublik berbasis di Yogyakarta dan bekerja untuk melayani kebutuhan pengguna ja
 
 * Pengelolaan informasi berbasis teks
   * penulisan
-..* penyuntingan
-..* penyelarasan bahasa
-..* penerjemahan (Inggris – Indonesia & Indonesia – Inggris)
+  * penyuntingan
+  * penyelarasan bahasa
+  * penerjemahan (Inggris – Indonesia & Indonesia – Inggris)
 
 * Pengelolaan informasi berbasis audiovisual
-..* Desain grafis
-..* Desain dan pengembangan web
+  * Desain grafis
+  * Desain dan pengembangan web
 
 * Penelitian
-..* Penelitian terkait tema politik, sosial dan budaya
-..* Penelitian untuk kebutuhan penguatan citra maupun merk usaha
+  * Penelitian terkait tema politik, sosial dan budaya
+  * Penelitian untuk kebutuhan penguatan citra maupun merk usaha
 
 * Penguatan kapasitas
-..* Pelatihan kepenulisan
-..* Pelatihan pengelolaan media dan media sosial
-..* Pelatihan terkait literasi digital
-..* Pelatihan terkait isu gender dan seksualitas
+  * Pelatihan kepenulisan
+  * Pelatihan pengelolaan media dan media sosial
+  * Pelatihan terkait literasi digital
+  * Pelatihan terkait isu gender dan seksualitas
 
 * Konsultan
-..* Social media strategist & management
-..* Content strategist
-..* Konsultan penelitian bertema politik, sosial dan budaya
-..* Konsultan penulisan
+  * Social media strategist & management
+  * Content strategist
+  * Konsultan penelitian bertema politik, sosial dan budaya
+  * Konsultan penulisan
 
 ## Bagaimana kami bekerja?
 * Kami menghargai setiap ide dari pengguna jasa kami. Kami percaya komunikasi yang baik dengan pengguna jasa kami adalah kunci untuk mendapatkan hasil yang berkualitas.
